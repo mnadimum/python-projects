@@ -21,4 +21,4 @@ for alien in aliens[:5]:
 
 # show how many aliens have been created.
 print(f"Total number of aliens: {len(aliens)}")
-
+print(aliens)
